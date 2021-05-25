@@ -15,7 +15,7 @@ import selenium.webdriver.support.ui as ui
 
 
 links = 'dismay.html'
-DRIVER_PATH = 'chromedriver_linux64/chromedriver'
+DRIVER_PATH = 'chromedriver'
 dismay_categories = {}
 brasilybelleza_categories = {}
 
